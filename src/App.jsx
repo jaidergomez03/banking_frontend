@@ -5,7 +5,7 @@ import './index.css'
 const App = () => {
   return(
     <div>
-      <section className="hero.section">
+      <section className="hero-section">
         <div className="hero-content">
           <h1>Welcome to My Bank</h1>
           <p>Your reliable partner in managin finances with ease and security</p>

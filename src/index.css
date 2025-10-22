@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.hero-section{
+  background-color: #2980b9;
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+}
